@@ -5,5 +5,3 @@
 
 ## 그룹 페이지
 
-* [그룹 첫 페이지](undefined/undefined.md)
-
