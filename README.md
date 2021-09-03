@@ -2,7 +2,7 @@
 description: 가이드 템플릿 적용
 ---
 
-# 메인 페이지 \(README\)
+# A
 
 ## Getting Super Powers
 
