@@ -2,7 +2,7 @@
 description: FAQ 템플릿 적용
 ---
 
-# 추가 페이지 \(SUMMARY\)
+# B
 
 ## Can I become who I want to be?
 
