@@ -4,6 +4,10 @@ description: FAQ 템플릿 적용
 
 # B
 
+그림 3
+
+
+
 ## Can I become who I want to be?
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
