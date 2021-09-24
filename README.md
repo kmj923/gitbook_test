@@ -2,5 +2,5 @@
 
 ![](.gitbook/assets/4.png)
 
-그림 2
+ <center>그림 2</center>
 
